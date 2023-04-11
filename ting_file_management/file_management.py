@@ -13,4 +13,4 @@ def txt_importer(path_file):
         return sys.stderr.write(f'Arquivo {path_file} não encontrado\n')
 
 
-print(txt_importer('matheus.txt'))
+# print(txt_importer('matheus.txt'))
